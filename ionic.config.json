@@ -1,0 +1,7 @@
+{
+  "name": "pushnoti",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
